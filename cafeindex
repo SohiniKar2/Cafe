@@ -1,0 +1,31 @@
+Index.htmlcode
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Cozy Café</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Cozy Café</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="about">
+      <h2>About Us</h2>
+      <p>Cozy Café was founded with a passion for crafting perfect cups of coffee and building community. We focus on quality ingredients, locally sourced beans, and a cozy atmosphere where everyone feels welcome.</p>
+      <p>Come for the coffee, stay for the connection.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Cozy Café. All rights reserved.</p>
+  </footer>
+</body>
+</html>
